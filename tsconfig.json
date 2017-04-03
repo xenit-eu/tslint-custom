@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "./lib",
+        "watch": true,
+        "target": "es5",
+        "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules",
+        "typings/browser",
+        "typings/browser.d.ts"
+    ],
+    "compileOnSave": true,
+    "buildOnSave": true,
+    "atom": {
+        "rewriteTsconfig": false
+    }
+}

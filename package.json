@@ -1,0 +1,15 @@
+{
+  "name": "tslint-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc src/*.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.2"
+  }
+}
