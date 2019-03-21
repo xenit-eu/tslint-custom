@@ -1,5 +1,5 @@
 {
-  "name": "tslint-custom",
+  "name": "@xenit/finder-utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tslint": "^4.5.1",
-    "typescript": "^2.2.2"
+    "tslint": "^5.14.0",
+    "typescript": "3.3.0"
   }
 }
