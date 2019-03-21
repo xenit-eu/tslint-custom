@@ -1,6 +1,6 @@
 {
-  "name": "@xenit/finder-utils",
-  "version": "1.0.0",
+  "name": "@xenit/tslint-custom",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "tslint": "^5.14.0",
-    "typescript": "3.3.0"
+    "typescript": "^2.2.2"
   }
 }
